@@ -7,6 +7,7 @@ This project it about create note for remain you. User can view and search their
 2. Work in you repo
 3. Install node_module by `npm i`
 4. Start in dev mode by `npm run dev`
+5. Generic process will run on port `3000` visit the page with url `http://localhost:3000`
 
 
 ## 🔓 Authentication
