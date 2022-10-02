@@ -1,6 +1,8 @@
 ## 📢 Overview
 This project it about create note for remain you. User can view and search their notes by they want. This application must login before using the app.
 
+![image](https://user-images.githubusercontent.com/10512885/193473540-4fd7dc1e-d377-497d-b224-cd2dc9a5b1dc.png)
+
 
 ## 💻 How to run
 1. Clone this repo to you local laptop
